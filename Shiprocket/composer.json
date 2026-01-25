@@ -1,0 +1,15 @@
+{
+    "name": "webkul/shiprocket",
+    "autoload": {
+        "psr-4": {
+            "Webkul\\Shiprocket\\": ""
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webkul\\Shiprocket\\Providers\\ShiprocketServiceProvider"
+            ]
+        }
+    }
+}
