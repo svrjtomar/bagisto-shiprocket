@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# 🚚 Shiprocket Integration for Bagisto (API Only)
-
 This guide explains how to install the Shiprocket integration in Bagisto using ZIP upload and terminal access.
 No coding knowledge is required.
 
